@@ -1,0 +1,6 @@
+{
+  "method": "GET",
+  "url": "https://api.shop.example/resource/invoices?limit=10",
+  "now": 1700000000,
+  "nonce": "srv-nonce-1"
+}

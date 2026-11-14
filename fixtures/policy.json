@@ -1,0 +1,5 @@
+{
+  "audience": "https://api.shop.example/resource",
+  "clock_skew": 300,
+  "replay_window": 300
+}
